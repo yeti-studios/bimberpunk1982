@@ -1,0 +1,3 @@
+X:/dev/bimberpunk1982/cmake-build-debug/CMakeFiles/bimberpunk1982.dir
+X:/dev/bimberpunk1982/cmake-build-debug/CMakeFiles/edit_cache.dir
+X:/dev/bimberpunk1982/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+[submodule "axxegro"]
+	path = axxegro
+	url = https://github.com/311Volt/axxegro
+[submodule "lpg-gui"]
+	path = lpg-gui
+	url = https://github.com/311Volt/lpg-gui
+[submodule "lpg-engine"]
+	path = lpg-engine
+	url = https://github.com/311Volt/lpg-engine
